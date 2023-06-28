@@ -1,0 +1,11 @@
+{
+  "name": "testsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "Node HelloWorld.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
